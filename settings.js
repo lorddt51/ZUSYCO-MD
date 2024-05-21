@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "94769880718,94726226416",
   OWNER_NAME: "༺Mr.Themiya (PVT BOT)༻",
   BOT_NAME : "©༺Mr.Themiya (PVT BOT)༻",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  ZUSYCO_FILE : "ZUSYCO-QR-1",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
