@@ -39,9 +39,9 @@ module.exports = {
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy,PRABATH',
   ANTI_BAD : true,
-  ANTI_LINKS : 'chat.whatsapp.com',
+  ANTI_LINKS : 'chat.whatsapp.com,PRABATH',
   ANTI_LINK : true,
-  ANTI_LINK_KICK : false,
+  ANTI_LINK_KICK : true,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : false,
