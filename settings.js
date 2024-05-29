@@ -37,7 +37,7 @@ module.exports = {
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '©༺Mr.Themiya (PVT BOT)༻',
   STICKER_PACK : '[ ZUSYCO ]',
-  BAD_WORDS : 'fuck,pussy,*PRABATH-MD*',
+  BAD_WORDS : 'fuck,pussy,🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶',
   ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
